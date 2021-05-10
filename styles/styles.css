@@ -6,3 +6,23 @@
 #total {
 	display: block;
 } */
+
+body {
+	font-family: 'Times New Roman', Times, serif;
+	border-style: groove;
+	border-color: black;
+	background: url(https://starwarsblog.starwars.com/wp-content/uploads/2020/04/star-wars-backgrounds-30.jpg);
+}
+
+button {
+	height: 200px;	
+}
+
+.calc-input {
+	color: rgb(71, 70, 70);
+}
+
+p {
+	border-style: ridge;
+	border-color: rgb(165, 164, 164);
+}
